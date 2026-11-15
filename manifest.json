@@ -1,0 +1,9 @@
+{
+  "id": "dice-log-painter",
+  "name": "Dice Log Painter (染色器)",
+  "version": "1.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "把 SealDice txt 跑团 log 去场外、按发言人染色，渲染成 Markdown 成品。",
+  "author": "_yeaz_",
+  "isDesktopOnly": false
+}
